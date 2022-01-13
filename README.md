@@ -1,6 +1,6 @@
 ### Matheus Lopes, 26
-Aspirante a desenvolvedor| Análise e Desenvolvimento de Sistemas<br>
-Estudo tecnologias Front End com Igor Oliveira - ProgramadorBr
+Aspirante a desenvolvedor | Análise e Desenvolvimento de Sistemas<br>
+Estudo tecnologias Front End com Igor Oliveira - ProgramadorBR
 
 
 <div style="display: inline_block">
@@ -14,3 +14,4 @@ Estudo tecnologias Front End com Igor Oliveira - ProgramadorBr
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheuslopes.pdf/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-lopes-1532aa21a/)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/matheuslopes)
