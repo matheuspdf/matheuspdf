@@ -1,6 +1,6 @@
 ### Matheus Lopes, 26
 Aspirante a desenvolvedor | Análise e Desenvolvimento de Sistemas<br>
-Estudo tecnologias Front End com Igor Oliveira - ProgramadorBR
+Estudo desenvolvimento web com Igor Oliveira - ProgramadorBR
 
 
 <div style="display: inline_block">
