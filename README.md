@@ -1,5 +1,6 @@
 ### Matheus Lopes, 26
-Aspirante a desenvolvedor | Análise e Desenvolvimento de Sistemas<br>
+Graduado em música, aspirante a desenvolvedor | <br>
+Análise e Desenvolvimento de Sistemas em andamento<br>
 Estudo desenvolvimento web com Igor Oliveira - ProgramadorBR
 
 
