@@ -1,6 +1,6 @@
 ### Matheus Lopes, 26
-Graduado em música, aspirante a desenvolvedor  <br>
-Análise e Desenvolvimento de Sistemas | Desenvolvimento web
+<br>
+Análise e Desenvolvimento de Sistemas | Python
 
 
 <div style="display: inline_block">
